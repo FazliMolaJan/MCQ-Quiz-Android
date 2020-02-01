@@ -1,6 +1,6 @@
 # MCQ-Quiz-Android
 An Android App to MCQ take through offline or online Mode.<br>
-**Note : Some predefined MCQ quiz data exsits on installation. **
+**Note : Some predefined MCQ quiz data exsits on installation.**
 
 Pre-requisites
 --------------
